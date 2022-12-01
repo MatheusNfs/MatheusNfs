@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently learning full-stack web development, focused in HTML, CSS, PHP and JavaScript 
 - 👀 I'm looking for opportunities to learn more, develop my abilities and gain more experience and knowledge, to further my position in this new career.
-- 📫 How to reach me ...
+- 📫 How to reach me:   <a href="mailto:matheus.dev2022@gmail.com"><img height = "17" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <h2 align="center">Apps and Languages</h2>
 <div align="center" style="display: inline_block">
